@@ -1,0 +1,23 @@
+.box-model-demo {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    margin: 15px;
+    border: 5px solid blue;
+    background-color: lightblue;
+}
+
+/* Block vs Inline Practice */
+.block-element {
+    display: block;
+    background-color: #ffeb3b;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.inline-element {
+    display: inline;
+    background-color: #4caf50;
+    color: white;
+    padding: 5px;
+}
